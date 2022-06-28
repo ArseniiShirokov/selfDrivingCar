@@ -4,7 +4,7 @@ Original without solution you can find in https://github.com/yandexdataschool/sd
 
 ### My progress
 * [ ] Localization
-  * [ ] Seminar
+  * [x] Seminar
   * [ ] Homework
   
 * [ ] Graph slam
