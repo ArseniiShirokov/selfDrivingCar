@@ -11,10 +11,6 @@ Original without solution you can find in https://github.com/yandexdataschool/sd
   * [ ] Seminar
   * [ ] Homework  
   
-* [ ] Graph slam
-  * [ ] Seminar
-  * [ ] Homework 
-  
 * [ ] Perception
   * [ ] Seminar
   * [ ] Homework 
